@@ -35,6 +35,7 @@
 <p><a href="https://www.paypal.com/paypalme/woulastp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aivardhan" /></a></p>
 <hr>
  ------
+ <br>
  Credit: [Stosbaby](https://github.com/Stosbaby)
  <br>
  Dernière édition le 06/09/2024
