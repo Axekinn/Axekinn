@@ -34,9 +34,7 @@
 <h2 align="left">Mon paypal</h2>
 <p><a href="https://www.paypal.com/paypalme/woulastp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aivardhan" /></a></p>
 <hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Stosbaby&label=Profile%20views&color=0e75b6&style=flat" alt="jaivardhan-bhola" /> </p>
-
-
  ------
  Credit: [Stosbaby](https://github.com/Stosbaby)
+ <br>
  Dernière édition le 06/09/2024
