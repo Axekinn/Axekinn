@@ -23,11 +23,11 @@
 <br>
 <br>
 <h2>Stats</h2
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Stosbaby&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Axekinn&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stosbaby&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stosbaby&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Axekinn&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 <p> <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&bg_color=141414&color=FF9B00&line=FF9B00&point=FF9B00" /> </p>
 <br>
 <br>
@@ -36,6 +36,6 @@
 <hr>
  ------
  <br>
- Credit: [Stosbaby](https://github.com/Stosbaby)
+ Credit: [Axekin](https://github.com/Stosbaby)
  <br>
- Dernière édition le 06/09/2024
+ Dernière édition le 13/11/2024
