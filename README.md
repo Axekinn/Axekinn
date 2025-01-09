@@ -28,14 +28,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Axekinn&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-<p> <img src ="https://activity-graph.herokuapp.com/graph?username=Axekinn&hide_border=true&bg_color=141414&color=FF9B00&line=FF9B00&point=FF9B00" /> </p>
 <br>
 <br>
 <h2 align="left">Mon paypal</h2>
-<p><a href="https://www.paypal.com/paypalme/woulastp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aivardhan" /></a></p>
+<p><a href="https://www.paypal.com/paypalme/woulastp"> <img align="center" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" height="50" width="210" alt="aivardhan" /></a></p>
 <hr>
- ------
- <br>
- Credit: [Axekin](https://github.com/Stosbaby)
- <br>
- Dernière édition le 13/11/2024
+
+ Dernière édition le 09/01/2025
