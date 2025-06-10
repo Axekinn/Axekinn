@@ -1,37 +1,93 @@
-<img src = "https://i.imgur.com/5oZhIof.png" width =50% height=50% align = "right"> 
+<p align="right">
+  <img src="https://i.imgur.com/dpyGoKz.png" width="300" alt="Banner" />
+</p>
 
-
-
-- 🔭 Je travaille actuellement sur un **Ordinateur fixe, homelabs avec VM MintOS**
-
-- 🌱 J'apprends actuellement le **CSS/HTML**, **JS**
-
-- 👨‍💻Mon principal projet est disponible sur [mon site](https://stosbaby.fr)
-
-<br>
-<br>
-<h2 align="left">Vous pouvez me parler sur :</h2>
+# 👋 Hi, I'm Axekin
 
 <p align="center">
-<a href="https://twitter.com/AxelMendes11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
-<a href="https://instagram.com/_axelx2z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
+  <img src="https://img.shields.io/github/followers/Axekinn?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Axekinn?style=social" alt="GitHub stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Axekinn.Axekinn" alt="visitors" />
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
 </p>
-<br>
-<br>
-<h2 align="left">Language et programmation</h2>
-<p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> r </p>
-<br>
-<br>
-<h2>Stats</h2
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Axekinn&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Axekinn&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-<br>
-<br>
-<h2 align="left">Mon paypal</h2>
-<p><a href="https://www.paypal.com/paypalme/woulastp"> <img align="center" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" height="50" width="210" alt="aivardhan" /></a></p>
-<hr>
+## 🎬 Animated Skills
 
- Dernière édition le 09/01/2025
+<p align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200" alt="Coding" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Web Dev" />
+</p>
+
+---
+
+## 📖 About Me
+
+- 🔭 Im using **MintOS** and **Windows 11** on dualboot 
+- 🌱 Learning **CSS/HTML** and **JavaScript**
+- 👨‍💻 Main project: [stosbaby.fr](https://www.axekin.com/)
+- 💡 Fun fact: I love automation and mechanical keyboards!
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://discord.com/invite/axekin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" />
+  </a>
+<a href="mailto:axekinn@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?logo=protonmail&logoColor=white" alt="ProtonMail" width="100" />
+</a>
+---
+
+## 💻 Languages & Tools
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" /><br/>HTML5</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" /><br/>CSS3</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br/>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br/>MySQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" /><br/>Linux</td>
+  </tr>
+</table>
+
+---
+
+## 📌 Pinned Projects
+
+| Project | Description | Demo/Link |
+|---------|-------------|-----------|
+| [stosbaby.fr](https://www.axekin.com/) | Main project, Download your favorites games ! | [Visit](https://www.axekin.com/) |
+| [Axekinn/Axekinn](https://github.com/Axekinn/Axekinn) | This repo, tracking my GitHub journey | [Repo](https://github.com/Axekinn/Axekinn) |
+| [wiki.axekin.com](wiki.axekin.com) | Every tutorials for beginners in the pirate world ! | [Visit](wiki.axekin.com) |
+
+---
+
+## 🗂️ Timeline / Roadmap
+
+- [x] Launch main website
+- [x] Set up homelab
+- [ ] Learn React
+- [ ] Build a public API
+- [ ] Release a personal portfolio
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axekinn&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="Stats GitHub" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axekinn&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+<sub>Last updated on 10/06/2025</sub>
