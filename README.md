@@ -34,7 +34,7 @@
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://discord.com/invite/axekin" target="_blank">
+  <a href="https://discord.gg/CUpf57y5Vg" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" />
   </a>
 <a href="mailto:axekinn@proton.me" target="_blank">
