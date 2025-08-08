@@ -24,7 +24,7 @@
 
 ## 📖 About Me
 
-- 🔭 Im using **MintOS** and **Windows 11** on dualboot 
+- 🔭 Im using **CachyOS** and **Windows 11** on dualboot 
 - 🌱 Learning **CSS/HTML** and **JavaScript**
 - 👨‍💻 Main project: [axekin.com](https://www.axekin.com/)
 - 💡 Fun fact: I love automation and mechanical keyboards!
