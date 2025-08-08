@@ -60,7 +60,7 @@
 
 | Project | Description | Demo/Link |
 |---------|-------------|-----------|
-| [stosbaby.fr](https://www.axekin.com/) | Main project, Download your favorites games ! | [Visit](https://www.axekin.com/) |
+| [axekin.com](https://www.axekin.com/) | Main project, Download your favorites games ! | [Visit](https://www.axekin.com/) |
 | [Axekinn/Axekinn](https://github.com/Axekinn/Axekinn) | This repo, tracking my GitHub journey | [Repo](https://github.com/Axekinn/Axekinn) |
 | [wiki.axekin.com](wiki.axekin.com) | Every tutorials for beginners in the pirate world ! | [Visit](wiki.axekin.com) |
 
