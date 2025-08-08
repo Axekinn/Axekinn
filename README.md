@@ -26,7 +26,7 @@
 
 - 🔭 Im using **MintOS** and **Windows 11** on dualboot 
 - 🌱 Learning **CSS/HTML** and **JavaScript**
-- 👨‍💻 Main project: [stosbaby.fr](https://www.axekin.com/)
+- 👨‍💻 Main project: [axekin.com](https://www.axekin.com/)
 - 💡 Fun fact: I love automation and mechanical keyboards!
 
 ---
