@@ -26,7 +26,6 @@
 
 - 🔭 Im using **CachyOS** and **Windows 11** on dualboot 
 - 🌱 Learning **CSS/HTML** and **JavaScript**
-- 👨‍💻 Main project: [axekin.com](https://www.axekin.com/)
 - 💡 Fun fact: I love automation and mechanical keyboards!
 
 ---
@@ -60,9 +59,7 @@
 
 | Project | Description | Demo/Link |
 |---------|-------------|-----------|
-| [axekin.com](https://www.axekin.com/) | Main project, Download your favorites games ! | [Visit](https://www.axekin.com/) |
 | [Axekinn/Axekinn](https://github.com/Axekinn/Axekinn) | This repo, tracking my GitHub journey | [Repo](https://github.com/Axekinn/Axekinn) |
-| [wiki.axekin.com](wiki.axekin.com) | Every tutorials for beginners in the pirate world ! | [Visit](wiki.axekin.com) |
 
 ---
 
@@ -90,4 +87,4 @@
 
 ---
 
-<sub>Last updated on 10/06/2025</sub>
+<sub>Last updated on 07/11/2025</sub>
