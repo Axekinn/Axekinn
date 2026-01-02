@@ -76,15 +76,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axekinn&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="Stats GitHub" />
+  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Axekinn&theme=dark&mode=weekly" alt="Stats GitHub" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axekinn&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-<sub>Last updated on 07/11/2025</sub>
+<sub>Last updated on 02/01/2026</sub>
