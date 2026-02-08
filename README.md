@@ -78,13 +78,7 @@
 <p align="center">
   <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Axekinn&theme=dark&mode=weekly" alt="Stats GitHub" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Axekinn&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
-<sub>Last updated on 02/01/2026</sub>
+<sub>Last updated on 08/02/2026</sub>
