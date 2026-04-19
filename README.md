@@ -32,10 +32,6 @@
 
 ## 📬 Contact
 
-<p align="center">
-  <a href="https://discord.gg/CUpf57y5Vg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" />
-  </a>
 <a href="mailto:axekinn@proton.me" target="_blank">
   <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?logo=protonmail&logoColor=white" alt="ProtonMail" width="100" />
 </a>
